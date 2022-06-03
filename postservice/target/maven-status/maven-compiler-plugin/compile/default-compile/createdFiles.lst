@@ -1,0 +1,8 @@
+com\postservice\postservice\model\Post.class
+com\postservice\postservice\mapper\PostMapper.class
+com\postservice\postservice\mapper\PostMapperImpl.class
+com\postservice\postservice\controller\PostController.class
+com\postservice\postservice\dto\PostDto.class
+com\postservice\postservice\PostserviceApplication.class
+com\postservice\postservice\repository\PostRepository.class
+com\postservice\postservice\service\PostService.class
