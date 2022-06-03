@@ -1,6 +1,8 @@
 # week-2-assignment-MustafaKaganSimsek
 Post api made using Java Spring Boot Framework
 
+<strong>Java 11</strong>
+
 <strong>Technologies</strong>
 
 <ul>
